@@ -1,0 +1,5 @@
+Mis notas de Git
+
+- Aprendiendo comandos básicos
+- Practicando con commits
+- Explorando ramas
